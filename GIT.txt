@@ -1,0 +1,14 @@
+Git (distributive verssion control system)
+steps
+
+1) download and install gitfrom git-scm.com
+2)make a project and right click on git bash
+3)to initialize git use command
+         $git init
+4)to check position of git user command
+ 	 $git status
+
+install kr k 
+folder pe right click kr k "git bash here"
+phr jo terminal aye ga os pe "git init" is tara ye folder initialise ho jaye ga
+git status
